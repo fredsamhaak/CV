@@ -1,4 +1,4 @@
-## He Shen 沈赫
+## He Shen
 
 A Bioinformatics Engineer & Data Scientist who has strong interest in the application of statistics, machine learning and deep learning in the biomedical industry.
 
