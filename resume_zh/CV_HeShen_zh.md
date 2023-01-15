@@ -5,8 +5,10 @@
 
 - Tel: +86 18511515898
 - Email: <he.shen@outlook.com>
-- ![](../_media/resume-linkedin-logo.png ':size=12%') [Linkedin Profile](https://www.linkedin.com/in/he-shen-8ba5a4aa/)
-- WeChat: fredsamhaak
+- ![](../_media/resume-linkedin-logo.png ':size=2%') [Linkedin Profile](https://www.linkedin.com/in/he-shen-8ba5a4aa/)
+- <details><summary>WeChat: fredsamhaak</summary>
+    <img src="../_media/resume-wechat-fredsamhaak.jpeg" alt="wechat-fredsamhaak" width="256" height="256">
+    </details>
 
 </details>
 
@@ -175,3 +177,5 @@
 - 2012/06                    第七届["挑战杯"](http://tiaozhanbei.net)首都大学生创业计划竞赛校级三等奖
 
 - 2012/06 – 2015/07        三等奖学金三次
+
+<p style="text-align: center; font-size: 20px;"><a href=https://fredshenhe.gitee.io>[Back Home]</a></p>
