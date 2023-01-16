@@ -5,10 +5,10 @@
 
 - Tel: +86 18511515898
 - Email: <he.shen@outlook.com>
-- ![](../_media/resume-linkedin-logo.png ':size=2%') [Linkedin Profile](https://www.linkedin.com/in/he-shen-8ba5a4aa/)
 - <details><summary>WeChat: fredsamhaak</summary>
     <img src="../_media/resume-wechat-fredsamhaak.jpeg" alt="wechat-fredsamhaak" width="256" height="256">
     </details>
+- ![](../_media/resume-linkedin-logo.png ':size=2%') [Linkedin Profile](https://www.linkedin.com/in/he-shen-8ba5a4aa/)
 
 </details>
 
