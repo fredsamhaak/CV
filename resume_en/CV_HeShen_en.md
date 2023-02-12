@@ -127,7 +127,7 @@ Responsibilities:
 
 ## Skills
 
-- Practical experience of using **Python** for EDA, statistical analysis, machine learning and data visualization (Proficient in using NumPy, Pandas, scikit-learn, SciPy, StatsModels, pingouin, Matplotlib, seaborn, etc.);
+- Practical experience of using **Python** for EDA, statistical analysis, machine learning, deep learning and data visualization (Proficient in using NumPy, Pandas, scikit-learn, PyTorch, SciPy, StatsModels, pingouin, Matplotlib, seaborn, etc.);
 
 - Experience in the use of bioinformatics tools for:
   

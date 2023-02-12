@@ -132,7 +132,7 @@
 
 ## 主要技能
 
-- 用 Python 进行数据 EDA、统计分析、预测建模和作图（熟练掌握 NumPy, Pandas, scikit-learn, SciPy, StatsModels, pingouin, Matplotlib, seaborn 等）；
+- 用 Python 进行数据 EDA、统计分析、预测建模（机器学习、深度学习）和作图（熟练掌握 NumPy, Pandas, scikit-learn, PyTorch, SciPy, StatsModels, pingouin, Matplotlib, seaborn 等）；
 
 - 用以下工具做传统生物信息学分析：
     
