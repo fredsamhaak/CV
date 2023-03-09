@@ -18,6 +18,23 @@
 
 对统计学、机器学习和深度学习在生物医药中的应用有强烈兴趣。
 
+
+## 主要技能
+
+- 用 Python 进行数据 EDA、统计分析、预测建模（机器学习、深度学习）和作图（熟练掌握 NumPy, Pandas, scikit-learn, PyTorch, SciPy, StatsModels, pingouin, Matplotlib, seaborn 等）；
+
+- 用以下工具做传统生物信息学分析：
+    
+    - 变异位点检测：BWA, SAMTOOLS, GATK, SOAPsnp, Strelka2
+    - 转录组分析：Tophat, Cufflinks, HISAT, StringTie
+    - 基因组组装：pbjelly, ARCS
+    - 基因同源注释：Geneblasta, GeneWise
+    - 基因家族分析：OrthoMCL, OrthoFinder, Gblocks, ProtTest, jModeltest, RAxML, PAML, CAFÉ
+    - 多序列比对：MAFFT, MEGA, ClustalX；
+
+- 具有在 Linux 环境和高性能计算集群中熟练工作的能力。
+
+
 ## 教育背景
 
 - 2015/09 – 2018/07            [中国农业科学院](http://www.caas.cn)，蔬菜学，硕士
@@ -130,20 +147,6 @@
 
 + 以学习为主，参与基因型填充(Imputation)工作；参与公司产品科学设计和运营方面的讨论。
 
-## 主要技能
-
-- 用 Python 进行数据 EDA、统计分析、预测建模（机器学习、深度学习）和作图（熟练掌握 NumPy, Pandas, scikit-learn, PyTorch, SciPy, StatsModels, pingouin, Matplotlib, seaborn 等）；
-
-- 用以下工具做传统生物信息学分析：
-    
-    - 变异位点检测：BWA, SAMTOOLS, GATK, SOAPsnp, Strelka2
-    - 转录组分析：Tophat, Cufflinks, HISAT, StringTie
-    - 基因组组装：pbjelly, ARCS
-    - 基因同源注释：Geneblasta, GeneWise
-    - 基因家族分析：OrthoMCL, OrthoFinder, Gblocks, ProtTest, jModeltest, RAxML, PAML, CAFÉ
-    - 多序列比对：MAFFT, MEGA, ClustalX；
-
-- 具有在 Linux 环境和高性能计算集群中熟练工作的能力。
 
 ## 发表论文
 
