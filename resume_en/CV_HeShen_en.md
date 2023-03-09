@@ -88,7 +88,7 @@ Responsibilities:
 
 Responsibilities:
 
-+ **As the person in charge of algorithm**, built prediction models for health risk assessment from scratch based on 16s and metagenomic data of human intestinal microbes.
++ **As the person in charge of prediction project**, built prediction models for health risk assessment from scratch based on 16s and metagenomic data of human intestinal microbes.
 
     - AIAGE is currently using these models to solve problems such as how likely is a person to get constipation or colorectal cancer.
     - Also, microorganisms (genus/species level) highly correlated to the traits of our interests can be found and their correlation coefficients can be obtained.
