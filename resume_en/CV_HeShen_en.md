@@ -50,7 +50,7 @@ Strong interest in the application of statistics, machine learning and deep lear
 
 ### 2022/07 – 2022/12
 
-**Digital Gene AI technology Co. Ltd.**，Bioinformatics Engineer
+[**Digital Gene AI technology Co. Ltd.**]，Bioinformatics Engineer
 
 Responsibilities:
 
