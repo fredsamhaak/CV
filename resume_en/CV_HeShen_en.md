@@ -25,15 +25,6 @@ Strong interest in the application of statistics, machine learning and deep lear
 
 - Practical experience of using **Python** for EDA, statistical analysis, machine learning, deep learning and data visualization (Proficient in using NumPy, Pandas, scikit-learn, PyTorch, SciPy, StatsModels, pingouin, Matplotlib, seaborn, etc.);
 
-- Experience in the use of bioinformatics tools for:
-  
-    - Mutation detection：BWA, SAMTOOLS, GATK, SOAPsnp, Strelka2
-    - Transcriptome analysis：Tophat, Cufflinks, HISAT, StringTie
-    - Genome assembly：pbjelly, ARCS
-    - Gene annotation：Geneblasta, GeneWise
-    - Gene family analysis：OrthoMCL, OrthoFinder, Gblocks, ProtTest, jModeltest, RAxML, PAML, CAFÉ
-    - Multiple sequence alignment：MAFFT, MEGA, ClustalX;
-
 - Proficient in using Linux environment and high performance computing clusters.
 
 
