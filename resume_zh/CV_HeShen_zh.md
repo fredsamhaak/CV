@@ -148,7 +148,7 @@
 + 以学习为主，参与基因型填充(Imputation)工作；参与公司产品科学设计和运营方面的讨论。
 
 
-## 发表论文
+## 发表文章
 
 - Li Y, Shen H, Zhou Q, Qian K, van der Lee T, Huang S. [Changing ploidy as a strategy: the Irish potato famine pathogen shifts ploidy in relation to its sexuality.](https://apsjournals.apsnet.org/doi/10.1094/MPMI-08-16-0156-R) Mol Plant Microbe Interact. 2017 Jan;30(1):45-52. doi: 10.1094/MPMI-08-16-0156-R. Epub 2017 Jan 27. PMID: 27957885. (并列一作，IF: 4.307)
 - Liao Q, Du R, Gou J, Guo L, Shen H, Liu H, Nguyen JK, Ming R, Yin T, Huang S, Yan J. The genomic architecture of the sex-determining region and sex-related metabolic variation in Ginkgobiloba. Plant J. 2020 Dec;104(5):1399-1409. doi: 10.1111/tpj.15009. Epub 2020 Oct 27. PMID: 33015884. (IF: 6.417)
