@@ -63,15 +63,15 @@
 
 + 参与 纤维化项目数据分析。
 
-    - 基于转录组数据，通过传统统计学方法，发现肺、肝、肾纤维化相关基因和潜在靶点。
+    - 基于转录组数据(bulk RNA-seq & scRNA-seq)，通过传统统计学方法，发现肺、肝、肾纤维化相关基因和潜在靶点。
 
 + 参与 抗体可开发性指标计算。
 
-    - 复现抗体可开放性指标计算的[经典论文](https://www.pnas.org/doi/10.1073/pnas.1810576116)，从抗体CDR区长度、疏水性、带电情况等5个方面，判断药物设计前期得到的抗体是否存在可开发性问题，提高后期成功率。
+    - 复现抗体可开发性（Antibody Developability）指标计算的[经典论文](https://www.pnas.org/doi/10.1073/pnas.1810576116)，从抗体CDR区长度、疏水性、带电情况等5个方面，判断药物设计前期得到的抗体是否存在可开发性问题，提高后期成功率。目前该方法已用于判断候选抗体是否存在一或多种可开发性问题，效果较好。
 
 + 参与 抗原呈递模型搭建。
 
-    - 复现组织相容性复合体(MHC)与新抗原(Neoantigen)互作及抗原呈递可能性的相关文章([MHC-I](https://pubmed.ncbi.nlm.nih.gov/31844290/), [MHC-II](https://pubmed.ncbi.nlm.nih.gov/31611695/))。模型可以对候选新抗原进行很好的筛选。
+    - 复现组织相容性复合体(MHC)与新抗原(Neoantigen)互作及抗原呈递可能性的相关文章([MHC-I](https://pubmed.ncbi.nlm.nih.gov/31844290/), [MHC-II](https://pubmed.ncbi.nlm.nih.gov/31611695/))。基于深度学习方法（(CNN(1d)+LSTM)/Transformer+FFNN & ESM-2 pre-trained model+FFNN），模型可以对候选新抗原进行很好的筛选，得到能与MHC发生强互作，能被很好呈递的新抗原。
 
 + 参与 人乳头瘤病毒(HPV)检测相关的调研。
 
