@@ -71,7 +71,7 @@
 
 + 参与 抗原呈递模型搭建。
 
-    - 复现组织相容性复合体(MHC)与新抗原(Neoantigen)互作及抗原呈递可能性的相关文章([MHC-I](https://pubmed.ncbi.nlm.nih.gov/31844290/), [MHC-II](https://pubmed.ncbi.nlm.nih.gov/31611695/))。基于深度学习方法（(CNN(1d)+LSTM)/Transformer+FFNN & ESM-2 pre-trained model+FFNN），模型可以对候选新抗原进行很好的筛选，得到与MHC发生强互作且被很好呈递的新抗原。
+    - 复现组织相容性复合体(MHC)与新抗原(Neoantigen)互作及抗原呈递可能性的相关文章([MHC-I](https://pubmed.ncbi.nlm.nih.gov/31844290/), [MHC-II](https://pubmed.ncbi.nlm.nih.gov/31611695/))。基于深度学习方法（(CNN(1d)+LSTM)/Transformer+FCNN & ESM-2 pre-trained model+FCNN），模型可以对候选新抗原进行很好的筛选，得到与MHC发生强互作且被很好呈递的新抗原。
 
 + 参与 人乳头瘤病毒(HPV)检测相关的调研。
 
