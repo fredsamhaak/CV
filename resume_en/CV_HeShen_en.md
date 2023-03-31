@@ -27,7 +27,7 @@ Collaborating in ways that capitalizes on each partner's strength in complementa
 
 ## Education
 
-- 2015/09 – 2018/07            [Chinese Academy of Agricultural Sciences](http://www.caas.cn/en/), Master of Science, Vegetable Science
+- 2015/09 – 2018/07            [Chinese Academy of Agricultural Sciences](http://www.caas.cn/en/), Master of Science, Vegetable Science (Bioinformatics)
 
     Supervisor: Prof. Sanwen Huang
 
