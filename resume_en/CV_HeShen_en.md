@@ -18,7 +18,7 @@ Achievement driven. A Team player with strong execution ability.
 
 Collaborating in ways that capitalizes on each partner's strength in complementary ways.
 
-Strong interest in the application of statistics, machine learning and deep learning in life science field.
+Strong interest in the application of machine learning and deep learning in life science field.
 
 ## Skills
 
