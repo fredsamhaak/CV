@@ -1,16 +1,8 @@
 # 沈赫
 
-<details>
-<summary>联系方式</summary>
-
 - Tel: +86 18511515898
 - Email: <he.shen@outlook.com>
-- <details><summary>WeChat: fredsamhaak</summary>
-    <img src="../_media/resume-wechat-fredsamhaak.jpeg" alt="wechat-fredsamhaak" width="256" height="256">
-    </details>
-- ![](../_media/resume-linkedin-logo.png ':size=2%') [Linkedin Profile](https://www.linkedin.com/in/he-shen-8ba5a4aa/)
 
-</details>
 
 ## 自我评价
 
@@ -20,25 +12,31 @@
 
 ## 主要技能
 
-- 用 Python 进行数据 EDA、统计分析、预测建模（机器学习、深度学习）和作图（熟练掌握 NumPy, Pandas, scikit-learn, PyTorch, SciPy, StatsModels, pingouin, Matplotlib, seaborn 等）；
+- 硬技能
+  - 用 Python 进行数据探索性分析（EDA）、统计分析、预测建模（机器学习、深度学习）和作图。熟练掌握 NumPy, Pandas, scikit-learn, PyTorch, SciPy, StatsModels, pingouin, Matplotlib, seaborn 等；
 
-- 用以下工具做传统生物信息学分析：
-    
-    - 变异位点检测：BWA, SAMTOOLS, GATK, SOAPsnp, Strelka2
-    - 转录组分析：Tophat, Cufflinks, HISAT, StringTie
-    - 基因组组装：pbjelly, ARCS
-    - 基因同源注释：Geneblasta, GeneWise
-    - 基因家族分析：OrthoMCL, OrthoFinder, Gblocks, ProtTest, jModeltest, RAxML, PAML, CAFÉ
-    - 多序列比对：MAFFT, MEGA, ClustalX；
+  - 用生物信息学工具完成以下分析：
+      
+      - 单细胞数据分析：Omicverse, Scanpy, scVelo, StaVia, etc.
+      - 变异位点检测：BWA, SAMTOOLS, GATK, SOAPsnp, Strelka2
+      - 转录组分析：Tophat, Cufflinks, HISAT, StringTie
+      - 基因组组装：pbjelly, ARCS
+      - 基因同源注释：Geneblasta, GeneWise
+      - 基因家族分析：OrthoMCL, OrthoFinder, Gblocks, ProtTest, jModeltest, RAxML, PAML, CAFÉ
+      - 多序列比对：MAFFT, MEGA, ClustalX；
 
-- 具有在 Linux 环境和高性能计算集群中熟练工作的能力。
+  - 具有在 Linux 环境和高性能计算集群中熟练工作的能力。
+
+- 软技能
+  - 能够快速了解背景、沟通清楚痛点和需求，并给出从AI和生物信息视角出发的可落地解决方案
+  - 在项目推进过程中，善于与内、外部门沟通和协作，充分调动各方积极性和优势，快速推进项目落地
 
 
 ## 教育背景
 
 - 2015/09 – 2018/07            [中国农业科学院](http://www.caas.cn)，蔬菜学（生物信息学方向），硕士
 
-    导师：黄三文 研究员
+    导师：黄三文 院士
 
 - 2011/09 – 2015/07            [中国农业大学](https://cau.edu.cn)，园艺学，本科
 
@@ -54,6 +52,38 @@
 
 ## 工作经历
 
+### 2023/05 - 至今
+
+**北京睿健生物科技有限公司/中国人体健康科技促进会**，生物信息负责人
+
+工作内容：
+
++ 负责 肿瘤新抗原（Neoantigen）生物信息流程的搭建
+
+    - 生物信息流程从0-1的设计和搭建
+      - 基于WES数据的体细胞非同义突变位点的检测和筛选
+      - 基于WES和RNA-seq数据的MHC Class I & II的分型
+      - 突变多肽与MHC Class I & II结合亲和力的预测
+      - 基于亲和力、基因表达量、氨基酸序列比对等条件的新抗原筛选
+    - 与湿实验负责人和外部测序公司对接，合作优化整个流程的时间安排。目前在科研课题病例中取得明显效果。
+
++ 负责 基于IVF胚胎图像分类的胚胎筛选流程的搭建
+
+    - 参考Hang, 2023；Florian, 2023的模型架构，设计了基于胚胎图像和临床生化指标的多模态深度学习模型
+    - 已完成基于胚胎图像的以Gardner评分为预测目标（label）的分类模型，效果较好（AUC: 0.80-0.82）
+
++ 负责 单细胞转录组数据分析流程的搭建（科研服务）
+
+    - 协同单细胞项目负责人和甲方设计实验方案
+    - 负责测序数据的分析，包括二级分析（表达矩阵生成）和三级分析（数据质控和过滤、单细胞分群和注释、差异表达基因的分析、细胞互作、细胞周期和细胞通讯分析等。）
+    - 展示分析结果并答疑解惑
+
++ 负责的其他项目：
+
+    - 基于DOE和机器学习模型的培养液（间充质干细胞培养液、囊胚培养液）成分和浓度的优化。在给出局部/全局最优方案的同时，大大降低实验次数和成本。
+    - 基于检索增强生成（RAG），开发企业内部资料的阅读小工具（尝试）
+    - 服务器的调研、采购、维护和升级
+
 ### 2022/07 – 2022/12
 
 **上海数因信科智能科技有限公司**，生物信息工程师
@@ -61,7 +91,7 @@
 工作内容：
 
 + 参与 纤维化项目数据分析。
-
++ 
     - 基于转录组数据(bulk RNA-seq & scRNA-seq)，通过传统统计学方法，发现肺、肝、肾纤维化相关基因和潜在靶点。
 
 + 参与 抗体可开发性指标计算。
@@ -101,7 +131,7 @@
 
 工作内容：
 
-+ **作为预测项目的主要负责人**，基于人肠道16s和宏基因组数据，从0开始搭建完成了健康风险预测模型。
++ **作为预测项目的主要负责人**，基于人肠道16s和宏基因组数据，从0-1搭建完成了健康风险预测模型。
 
     - 基于这套流程，可以对感兴趣且重要的性状进行预测，如，一个人患便秘或结直肠癌的风险大小等。
     - 同时，也可以找到与表型性状强相关的微生物（属/种水平）。
@@ -136,16 +166,6 @@
     - 使用文献中基于统计学的方法进行抗原表位鉴定；
     - 多肽数量的选择基于贪心算法，尽可能使用最少的多肽检出最多的阳性样本。
 
-### 2018/01 – 2018/03 
-
-[**北京各色科技有限公司**](https://www.gesedna.com)，生物信息工程师（实习）
-    
-工作内容：
-    
-+ 负责基于芯片测序的 SNP 位点的注释：编写爬虫从 dbSNP 等数据库爬取 SNP 位点注释信息。
-
-+ 以学习为主，参与基因型填充(Imputation)工作；参与公司产品科学设计和运营方面的讨论。
-
 
 ## 发表文章
 
@@ -168,7 +188,7 @@
 
 - 2015/12                    中国农业科学院一二*九运动八十周年合唱比赛中担任指挥，获得第二名
 
-- 2015/09 – 2017/09        一等奖学金两次，二等奖学金一次
+- 2015/09 – 2017/09          一等奖学金两次，二等奖学金一次
 
 - 2013/11                    首都高等学校触摸式橄榄球比赛，盘级冠军
 
@@ -177,7 +197,3 @@
 - 2013/03                    [JA青年成就组织](https://www.juniorachievement.org/web/ja-usa/home)，获[JA中国](http://www.jachina.org/index.html?lang=zh_CN)优秀志愿者团队称号
 
 - 2012/06                    第七届["挑战杯"](http://tiaozhanbei.net)首都大学生创业计划竞赛校级三等奖
-
-- 2012/06 – 2015/07        三等奖学金三次
-
-<p style="text-align: center; font-size: 20px;"><a href=https://fredsamhaak.github.io/CV/#/>[Back Home]</a></p>
